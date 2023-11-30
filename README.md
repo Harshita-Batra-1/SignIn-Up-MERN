@@ -4,3 +4,4 @@
 ![3](https://github.com/Harshita-Batra-1/SignIn-Up-MERN/assets/101546087/decd5291-276f-43e0-84a3-dc9e39e02a04)
 ![1](https://github.com/Harshita-Batra-1/SignIn-Up-MERN/assets/101546087/b8c89fa3-a7eb-4f49-aa25-f9f63fe65205)
 ![2](https://github.com/Harshita-Batra-1/SignIn-Up-MERN/assets/101546087/d6484831-0aea-430f-870a-57eb5cdf0ad0)
+![9](https://github.com/Harshita-Batra-1/SignIn-Up-MERN/assets/101546087/68bd1fd4-7274-4379-bb6e-b7679133330f)
